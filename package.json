@@ -20,5 +20,14 @@
 		"obsidian": "latest",
 		"tslib": "2.4.0",
 		"typescript": "4.7.4"
+	},
+	"dependencies": {
+		"diff": "^5.1.0",
+		"epub": "^1.2.1",
+		"eta": "^1.12.3",
+		"gray-matter": "^4.0.3",
+		"lua-json": "^1.0.1",
+		"node-find-files": "^1.0.0",
+		"python-shell": "^3.0.1"
 	}
 }

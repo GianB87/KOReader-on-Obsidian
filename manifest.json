@@ -1,11 +1,9 @@
 {
-	"id": "obsidian-sample-plugin",
-	"name": "Sample Plugin",
+	"id": "koreader-on-obsidian",
+	"name": "KOReader on Obsidian",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "This is a sample plugin for Obsidian. This plugin demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
-	"isDesktopOnly": false
+	"description": "This is a plugin build on top of another plugin from Federico \"Edo\" Granata (https://github.com/Edo78/obsidian-koreader-sync). It has not been updated for a long time and i wanted to build my own for my specific use case. This plugin syncs highlights and notes taken in KOReader, tested on Kobo Libra 2.",
+	"author": "Johan Baltazar",
+	"isDesktopOnly": true
 }
